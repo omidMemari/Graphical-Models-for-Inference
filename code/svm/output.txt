@@ -1,0 +1,7 @@
+Reading model...done.
+Reading test examples... 3439 examples, 26198 tokens, 128 features, 26 classes... done.
+Classifying test examples...done
+Runtime (without IO) in cpu-seconds: 0.08
+Average loss on test set: 1.1713
+Zero/one-error on test set: 51.73% (1660 correct, 1779 incorrect, 3439 total)
+Average loss per token: 0.1538
